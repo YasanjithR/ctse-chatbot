@@ -37,8 +37,8 @@ env/
 *apikey*
 
 # Local files
-documents/
-*.pdf
+documents
+
 
 # IDE specific files
 .idea/
